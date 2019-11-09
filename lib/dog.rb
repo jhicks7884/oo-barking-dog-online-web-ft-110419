@@ -4,5 +4,3 @@ end
 
 fido = dog.new
 fido.name = "fido"
-
-fido.name
